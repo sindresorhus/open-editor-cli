@@ -31,7 +31,7 @@ $ open-editor --help
 ## Related
 
 - [open-editor](https://github.com/sindresorhus/open-editor) - API for this module
-- [opn-cli](https://github.com/sindresorhus/opn-cli) - Opens stuff like websites, files, executables
+- [open-cli](https://github.com/sindresorhus/open-cli) - Opens stuff like websites, files, executables
 
 
 ## License

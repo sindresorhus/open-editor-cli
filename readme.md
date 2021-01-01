@@ -1,4 +1,4 @@
-# open-editor-cli [![Build Status](https://travis-ci.org/sindresorhus/open-editor-cli.svg?branch=master)](https://travis-ci.org/sindresorhus/open-editor-cli)
+# open-editor-cli
 
 > Open files in your editor at a specific line and column
 

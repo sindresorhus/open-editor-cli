@@ -2,13 +2,11 @@
 
 > Open files in your editor at a specific line and column
 
-
 ## Install
 
+```sh
+npm install --global open-editor-cli
 ```
-$ npm install --global open-editor-cli
-```
-
 
 ## Usage
 
@@ -27,13 +25,7 @@ $ open-editor --help
     $ echo '<h1>Unicorns!</h1>' | open-editor --ext=html
 ```
 
-
 ## Related
 
 - [open-editor](https://github.com/sindresorhus/open-editor) - API for this module
 - [open-cli](https://github.com/sindresorhus/open-cli) - Opens stuff like websites, files, executables
-
-
-## License
-
-MIT © [Sindre Sorhus](https://sindresorhus.com)
